@@ -42,7 +42,7 @@ namespace Wrox.ProCSharp.Generics
             lock (this)
             {
                 // 移除并返回位于Queue<TDocument>开始处的对象
-                documentQueue.Dequeue();
+                doc = documentQueue.Dequeue();
             }
             return doc;
         }
@@ -72,8 +72,10 @@ namespace Wrox.ProCSharp.Generics
             dm.DispalyAllDocuments();
             if (dm.IsDocumentAvailable)
             {
-                Document d = dm.GetDocument();
-                Console.WriteLine(d.Content);
+                Document d1 = dm.GetDocument();
+                Document d2 = dm.GetDocument();
+                Console.WriteLine(d1.Content);
+                Console.WriteLine(d2.Content);
             }
             Console.Read();
         }
