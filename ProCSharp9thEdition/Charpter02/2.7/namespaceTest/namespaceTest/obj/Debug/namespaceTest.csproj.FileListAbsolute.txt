@@ -1,0 +1,6 @@
+D:\GitHub\csharpdev\ProCSharp9thEdition\Charpter02\2.7\namespaceTest\namespaceTest\bin\Debug\namespaceTest.exe.config
+D:\GitHub\csharpdev\ProCSharp9thEdition\Charpter02\2.7\namespaceTest\namespaceTest\bin\Debug\namespaceTest.exe
+D:\GitHub\csharpdev\ProCSharp9thEdition\Charpter02\2.7\namespaceTest\namespaceTest\bin\Debug\namespaceTest.pdb
+D:\GitHub\csharpdev\ProCSharp9thEdition\Charpter02\2.7\namespaceTest\namespaceTest\obj\Debug\namespaceTest.csprojResolveAssemblyReference.cache
+D:\GitHub\csharpdev\ProCSharp9thEdition\Charpter02\2.7\namespaceTest\namespaceTest\obj\Debug\namespaceTest.exe
+D:\GitHub\csharpdev\ProCSharp9thEdition\Charpter02\2.7\namespaceTest\namespaceTest\obj\Debug\namespaceTest.pdb

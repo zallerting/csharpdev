@@ -1,0 +1,6 @@
+D:\GitHub\csharpdev\ProCSharp9thEdition\Charpter04\4.3\BaseInvoke\BaseInvoke\bin\Debug\BaseInvoke.exe.config
+D:\GitHub\csharpdev\ProCSharp9thEdition\Charpter04\4.3\BaseInvoke\BaseInvoke\bin\Debug\BaseInvoke.exe
+D:\GitHub\csharpdev\ProCSharp9thEdition\Charpter04\4.3\BaseInvoke\BaseInvoke\bin\Debug\BaseInvoke.pdb
+D:\GitHub\csharpdev\ProCSharp9thEdition\Charpter04\4.3\BaseInvoke\BaseInvoke\obj\Debug\BaseInvoke.csprojResolveAssemblyReference.cache
+D:\GitHub\csharpdev\ProCSharp9thEdition\Charpter04\4.3\BaseInvoke\BaseInvoke\obj\Debug\BaseInvoke.exe
+D:\GitHub\csharpdev\ProCSharp9thEdition\Charpter04\4.3\BaseInvoke\BaseInvoke\obj\Debug\BaseInvoke.pdb

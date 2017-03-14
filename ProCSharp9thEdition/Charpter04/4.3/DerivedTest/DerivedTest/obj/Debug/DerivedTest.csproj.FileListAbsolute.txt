@@ -1,0 +1,6 @@
+D:\GitHub\csharpdev\ProCSharp9thEdition\Charpter04\4.3\DerivedTest\DerivedTest\bin\Debug\DerivedTest.exe.config
+D:\GitHub\csharpdev\ProCSharp9thEdition\Charpter04\4.3\DerivedTest\DerivedTest\bin\Debug\DerivedTest.exe
+D:\GitHub\csharpdev\ProCSharp9thEdition\Charpter04\4.3\DerivedTest\DerivedTest\bin\Debug\DerivedTest.pdb
+D:\GitHub\csharpdev\ProCSharp9thEdition\Charpter04\4.3\DerivedTest\DerivedTest\obj\Debug\DerivedTest.csprojResolveAssemblyReference.cache
+D:\GitHub\csharpdev\ProCSharp9thEdition\Charpter04\4.3\DerivedTest\DerivedTest\obj\Debug\DerivedTest.exe
+D:\GitHub\csharpdev\ProCSharp9thEdition\Charpter04\4.3\DerivedTest\DerivedTest\obj\Debug\DerivedTest.pdb

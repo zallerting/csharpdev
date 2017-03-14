@@ -1,0 +1,5 @@
+D:\GitHub\csharpdev\ProCSharp9thEdition\Charpter02\2.8\ArgsTest\ArgsTest\bin\Debug\ArgsTest.exe.config
+D:\GitHub\csharpdev\ProCSharp9thEdition\Charpter02\2.8\ArgsTest\ArgsTest\bin\Debug\ArgsTest.exe
+D:\GitHub\csharpdev\ProCSharp9thEdition\Charpter02\2.8\ArgsTest\ArgsTest\bin\Debug\ArgsTest.pdb
+D:\GitHub\csharpdev\ProCSharp9thEdition\Charpter02\2.8\ArgsTest\ArgsTest\obj\Debug\ArgsTest.exe
+D:\GitHub\csharpdev\ProCSharp9thEdition\Charpter02\2.8\ArgsTest\ArgsTest\obj\Debug\ArgsTest.pdb

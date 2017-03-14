@@ -1,0 +1,2 @@
+D:\GitHub\csharpdev\ProCSharp9thEdition\Charpter05\5.2\CollectionsTest\CollectionsTest\bin\Debug\CollectionsTest.exe.config
+D:\GitHub\csharpdev\ProCSharp9thEdition\Charpter05\5.2\CollectionsTest\CollectionsTest\obj\Debug\CollectionsTest.csprojResolveAssemblyReference.cache

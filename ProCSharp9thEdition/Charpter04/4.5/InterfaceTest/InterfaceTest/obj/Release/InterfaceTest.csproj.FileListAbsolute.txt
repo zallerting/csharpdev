@@ -1,0 +1,5 @@
+D:\GitHub\csharpdev\ProCSharp9thEdition\Charpter04\4.5\InterfaceTest\InterfaceTest\bin\Release\InterfaceTest.exe.config
+D:\GitHub\csharpdev\ProCSharp9thEdition\Charpter04\4.5\InterfaceTest\InterfaceTest\bin\Release\InterfaceTest.exe
+D:\GitHub\csharpdev\ProCSharp9thEdition\Charpter04\4.5\InterfaceTest\InterfaceTest\bin\Release\InterfaceTest.pdb
+D:\GitHub\csharpdev\ProCSharp9thEdition\Charpter04\4.5\InterfaceTest\InterfaceTest\obj\Release\InterfaceTest.exe
+D:\GitHub\csharpdev\ProCSharp9thEdition\Charpter04\4.5\InterfaceTest\InterfaceTest\obj\Release\InterfaceTest.pdb

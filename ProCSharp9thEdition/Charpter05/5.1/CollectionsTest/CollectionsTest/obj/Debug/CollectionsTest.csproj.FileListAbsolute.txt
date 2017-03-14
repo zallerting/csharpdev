@@ -1,0 +1,6 @@
+D:\GitHub\csharpdev\ProCSharp9thEdition\Charpter05\5.1\CollectionsTest\CollectionsTest\bin\Debug\CollectionsTest.exe.config
+D:\GitHub\csharpdev\ProCSharp9thEdition\Charpter05\5.1\CollectionsTest\CollectionsTest\bin\Debug\CollectionsTest.exe
+D:\GitHub\csharpdev\ProCSharp9thEdition\Charpter05\5.1\CollectionsTest\CollectionsTest\bin\Debug\CollectionsTest.pdb
+D:\GitHub\csharpdev\ProCSharp9thEdition\Charpter05\5.1\CollectionsTest\CollectionsTest\obj\Debug\CollectionsTest.csprojResolveAssemblyReference.cache
+D:\GitHub\csharpdev\ProCSharp9thEdition\Charpter05\5.1\CollectionsTest\CollectionsTest\obj\Debug\CollectionsTest.exe
+D:\GitHub\csharpdev\ProCSharp9thEdition\Charpter05\5.1\CollectionsTest\CollectionsTest\obj\Debug\CollectionsTest.pdb

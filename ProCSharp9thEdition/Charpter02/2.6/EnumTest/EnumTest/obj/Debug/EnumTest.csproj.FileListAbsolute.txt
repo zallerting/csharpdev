@@ -1,0 +1,6 @@
+D:\GitHub\csharpdev\ProCSharp9thEdition\Charpter02\2.6\EnumTest\EnumTest\bin\Debug\EnumTest.exe.config
+D:\GitHub\csharpdev\ProCSharp9thEdition\Charpter02\2.6\EnumTest\EnumTest\bin\Debug\EnumTest.exe
+D:\GitHub\csharpdev\ProCSharp9thEdition\Charpter02\2.6\EnumTest\EnumTest\bin\Debug\EnumTest.pdb
+D:\GitHub\csharpdev\ProCSharp9thEdition\Charpter02\2.6\EnumTest\EnumTest\obj\Debug\EnumTest.csprojResolveAssemblyReference.cache
+D:\GitHub\csharpdev\ProCSharp9thEdition\Charpter02\2.6\EnumTest\EnumTest\obj\Debug\EnumTest.exe
+D:\GitHub\csharpdev\ProCSharp9thEdition\Charpter02\2.6\EnumTest\EnumTest\obj\Debug\EnumTest.pdb

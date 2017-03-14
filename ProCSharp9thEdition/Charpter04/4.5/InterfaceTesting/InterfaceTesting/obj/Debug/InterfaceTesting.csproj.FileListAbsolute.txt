@@ -1,0 +1,6 @@
+D:\GitHub\csharpdev\ProCSharp9thEdition\Charpter04\4.5\InterfaceTesting\InterfaceTesting\bin\Debug\InterfaceTesting.exe.config
+D:\GitHub\csharpdev\ProCSharp9thEdition\Charpter04\4.5\InterfaceTesting\InterfaceTesting\bin\Debug\InterfaceTesting.exe
+D:\GitHub\csharpdev\ProCSharp9thEdition\Charpter04\4.5\InterfaceTesting\InterfaceTesting\bin\Debug\InterfaceTesting.pdb
+D:\GitHub\csharpdev\ProCSharp9thEdition\Charpter04\4.5\InterfaceTesting\InterfaceTesting\obj\Debug\InterfaceTesting.csprojResolveAssemblyReference.cache
+D:\GitHub\csharpdev\ProCSharp9thEdition\Charpter04\4.5\InterfaceTesting\InterfaceTesting\obj\Debug\InterfaceTesting.exe
+D:\GitHub\csharpdev\ProCSharp9thEdition\Charpter04\4.5\InterfaceTesting\InterfaceTesting\obj\Debug\InterfaceTesting.pdb

@@ -1,0 +1,6 @@
+D:\GitHub\csharpdev\ProCSharp9thEdition\Charpter04\4.3\DerivedConstructor\DerivedConstructor\bin\Debug\DerivedConstructor.exe.config
+D:\GitHub\csharpdev\ProCSharp9thEdition\Charpter04\4.3\DerivedConstructor\DerivedConstructor\bin\Debug\DerivedConstructor.exe
+D:\GitHub\csharpdev\ProCSharp9thEdition\Charpter04\4.3\DerivedConstructor\DerivedConstructor\bin\Debug\DerivedConstructor.pdb
+D:\GitHub\csharpdev\ProCSharp9thEdition\Charpter04\4.3\DerivedConstructor\DerivedConstructor\obj\Debug\DerivedConstructor.csprojResolveAssemblyReference.cache
+D:\GitHub\csharpdev\ProCSharp9thEdition\Charpter04\4.3\DerivedConstructor\DerivedConstructor\obj\Debug\DerivedConstructor.exe
+D:\GitHub\csharpdev\ProCSharp9thEdition\Charpter04\4.3\DerivedConstructor\DerivedConstructor\obj\Debug\DerivedConstructor.pdb
