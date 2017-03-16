@@ -1,0 +1,5 @@
+D:\GitHub\csharpdev\ProCSharp9thEdition\Charpter02\2.3\Scope2\Scope2\bin\Debug\Scope2.exe.config
+D:\GitHub\csharpdev\ProCSharp9thEdition\Charpter02\2.3\Scope2\Scope2\bin\Debug\Scope2.exe
+D:\GitHub\csharpdev\ProCSharp9thEdition\Charpter02\2.3\Scope2\Scope2\bin\Debug\Scope2.pdb
+D:\GitHub\csharpdev\ProCSharp9thEdition\Charpter02\2.3\Scope2\Scope2\obj\Debug\Scope2.exe
+D:\GitHub\csharpdev\ProCSharp9thEdition\Charpter02\2.3\Scope2\Scope2\obj\Debug\Scope2.pdb

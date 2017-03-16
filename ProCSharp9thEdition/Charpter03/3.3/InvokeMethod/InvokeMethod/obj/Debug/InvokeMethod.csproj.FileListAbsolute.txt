@@ -1,0 +1,6 @@
+D:\GitHub\csharpdev\ProCSharp9thEdition\Charpter03\3.3\InvokeMethod\InvokeMethod\bin\Debug\InvokeMethod.exe.config
+D:\GitHub\csharpdev\ProCSharp9thEdition\Charpter03\3.3\InvokeMethod\InvokeMethod\bin\Debug\InvokeMethod.exe
+D:\GitHub\csharpdev\ProCSharp9thEdition\Charpter03\3.3\InvokeMethod\InvokeMethod\bin\Debug\InvokeMethod.pdb
+D:\GitHub\csharpdev\ProCSharp9thEdition\Charpter03\3.3\InvokeMethod\InvokeMethod\obj\Debug\InvokeMethod.csprojResolveAssemblyReference.cache
+D:\GitHub\csharpdev\ProCSharp9thEdition\Charpter03\3.3\InvokeMethod\InvokeMethod\obj\Debug\InvokeMethod.exe
+D:\GitHub\csharpdev\ProCSharp9thEdition\Charpter03\3.3\InvokeMethod\InvokeMethod\obj\Debug\InvokeMethod.pdb

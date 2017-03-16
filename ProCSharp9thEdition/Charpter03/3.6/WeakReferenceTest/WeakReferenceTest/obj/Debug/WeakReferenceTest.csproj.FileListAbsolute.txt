@@ -1,0 +1,6 @@
+D:\GitHub\csharpdev\ProCSharp9thEdition\Charpter03\3.6\WeakReferenceTest\WeakReferenceTest\bin\Debug\WeakReferenceTest.exe.config
+D:\GitHub\csharpdev\ProCSharp9thEdition\Charpter03\3.6\WeakReferenceTest\WeakReferenceTest\bin\Debug\WeakReferenceTest.exe
+D:\GitHub\csharpdev\ProCSharp9thEdition\Charpter03\3.6\WeakReferenceTest\WeakReferenceTest\bin\Debug\WeakReferenceTest.pdb
+D:\GitHub\csharpdev\ProCSharp9thEdition\Charpter03\3.6\WeakReferenceTest\WeakReferenceTest\obj\Debug\WeakReferenceTest.csprojResolveAssemblyReference.cache
+D:\GitHub\csharpdev\ProCSharp9thEdition\Charpter03\3.6\WeakReferenceTest\WeakReferenceTest\obj\Debug\WeakReferenceTest.exe
+D:\GitHub\csharpdev\ProCSharp9thEdition\Charpter03\3.6\WeakReferenceTest\WeakReferenceTest\obj\Debug\WeakReferenceTest.pdb

@@ -1,0 +1,6 @@
+D:\GitHub\csharpdev\ProCSharp9thEdition\Charpter03\3.3\StaticConstructor\StaticConstructor\bin\Debug\StaticConstructor.exe.config
+D:\GitHub\csharpdev\ProCSharp9thEdition\Charpter03\3.3\StaticConstructor\StaticConstructor\obj\Debug\StaticConstructor.csprojResolveAssemblyReference.cache
+D:\GitHub\csharpdev\ProCSharp9thEdition\Charpter03\3.3\StaticConstructor\StaticConstructor\bin\Debug\StaticConstructor.exe
+D:\GitHub\csharpdev\ProCSharp9thEdition\Charpter03\3.3\StaticConstructor\StaticConstructor\bin\Debug\StaticConstructor.pdb
+D:\GitHub\csharpdev\ProCSharp9thEdition\Charpter03\3.3\StaticConstructor\StaticConstructor\obj\Debug\StaticConstructor.exe
+D:\GitHub\csharpdev\ProCSharp9thEdition\Charpter03\3.3\StaticConstructor\StaticConstructor\obj\Debug\StaticConstructor.pdb

@@ -1,0 +1,5 @@
+D:\GitHub\csharpdev\ProCSharp9thEdition\Charpter03\3.9\ToStringTest\ToStringTest\bin\Release\ToStringTest.exe.config
+D:\GitHub\csharpdev\ProCSharp9thEdition\Charpter03\3.9\ToStringTest\ToStringTest\bin\Release\ToStringTest.exe
+D:\GitHub\csharpdev\ProCSharp9thEdition\Charpter03\3.9\ToStringTest\ToStringTest\bin\Release\ToStringTest.pdb
+D:\GitHub\csharpdev\ProCSharp9thEdition\Charpter03\3.9\ToStringTest\ToStringTest\obj\Release\ToStringTest.exe
+D:\GitHub\csharpdev\ProCSharp9thEdition\Charpter03\3.9\ToStringTest\ToStringTest\obj\Release\ToStringTest.pdb

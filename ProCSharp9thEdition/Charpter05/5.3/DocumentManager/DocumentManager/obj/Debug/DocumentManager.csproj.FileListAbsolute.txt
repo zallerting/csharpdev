@@ -1,0 +1,6 @@
+D:\GitHub\csharpdev\ProCSharp9thEdition\Charpter05\5.3\DocumentManager\DocumentManager\bin\Debug\DocumentManager.exe.config
+D:\GitHub\csharpdev\ProCSharp9thEdition\Charpter05\5.3\DocumentManager\DocumentManager\obj\Debug\DocumentManager.csprojResolveAssemblyReference.cache
+D:\GitHub\csharpdev\ProCSharp9thEdition\Charpter05\5.3\DocumentManager\DocumentManager\bin\Debug\DocumentManager.exe
+D:\GitHub\csharpdev\ProCSharp9thEdition\Charpter05\5.3\DocumentManager\DocumentManager\bin\Debug\DocumentManager.pdb
+D:\GitHub\csharpdev\ProCSharp9thEdition\Charpter05\5.3\DocumentManager\DocumentManager\obj\Debug\DocumentManager.exe
+D:\GitHub\csharpdev\ProCSharp9thEdition\Charpter05\5.3\DocumentManager\DocumentManager\obj\Debug\DocumentManager.pdb

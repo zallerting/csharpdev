@@ -1,0 +1,6 @@
+D:\GitHub\csharpdev\ProCSharp9thEdition\Charpter02\2.2\First\First\bin\Debug\First.exe.config
+D:\GitHub\csharpdev\ProCSharp9thEdition\Charpter02\2.2\First\First\bin\Debug\First.exe
+D:\GitHub\csharpdev\ProCSharp9thEdition\Charpter02\2.2\First\First\bin\Debug\First.pdb
+D:\GitHub\csharpdev\ProCSharp9thEdition\Charpter02\2.2\First\First\obj\Debug\First.csprojResolveAssemblyReference.cache
+D:\GitHub\csharpdev\ProCSharp9thEdition\Charpter02\2.2\First\First\obj\Debug\First.exe
+D:\GitHub\csharpdev\ProCSharp9thEdition\Charpter02\2.2\First\First\obj\Debug\First.pdb
