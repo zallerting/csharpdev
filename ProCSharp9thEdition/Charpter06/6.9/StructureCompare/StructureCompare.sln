@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StructureCompare", "StructureCompare\StructureCompare.csproj", "{828DA3EF-79AB-48CF-86EA-6979160ADB7E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{828DA3EF-79AB-48CF-86EA-6979160ADB7E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{828DA3EF-79AB-48CF-86EA-6979160ADB7E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{828DA3EF-79AB-48CF-86EA-6979160ADB7E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{828DA3EF-79AB-48CF-86EA-6979160ADB7E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
