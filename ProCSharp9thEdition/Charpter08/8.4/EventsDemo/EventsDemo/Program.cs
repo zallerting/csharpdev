@@ -71,7 +71,8 @@ namespace EventsDemo
             var sebastian = new Consumer("Sebastian");
             dealer.NewCarInfo += sebastian.NewCarIsHere;
             dealer.NewCar("Mercedes");
-
+            
+            // 通过"-="取消一个订阅
             dealer.NewCarInfo -= michael.NewCarIsHere;
 
             dealer.NewCar("Red Bull Racing");
